@@ -25,4 +25,4 @@ Open Education -The Journal for Open and Distance Education and Educational Tech
 
 **Η αξιοποίηση της τεχνολογίας του διαδραστικού βίντεο της Ψηφιακής Εκπαιδευτικής Πλατφόρμας e-me, κατά την εφαρμογή του μοντέλου της Ανεστραμμένης Τάξης σε ένα διδακτικό σενάριο με θέμα «Πολλαπλασιασμός των φυτών με καταβολάδες και παραφυάδες»**
 
-Υπάρχουν τα διαδραστικά βίντεο [ψηφιακός πόρος 3](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=889117) και [ψηφιακός πόρος 4:](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=891649)
+Υπάρχουν τα παρακάτω 3 διαδραστικά βίντεο: "Πολλαπλασιασμός με καταβολάδα" [ψηφιακός πόρος 3](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=889117), "Πολλαπλασιασμός με εναέρια καταβολάδα" [ψηφιακός πόρος 4:](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=891649) και "Πολλαπλασιαμός με παραφυάδες" [ψηφιακός πόρος 5](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=106477)
